@@ -66,6 +66,7 @@ namespace Ejemplo_clase_asincrona
             conexion.MostrarConfiguracion();
 
             Console.ReadLine();
+
         }
     }
 }

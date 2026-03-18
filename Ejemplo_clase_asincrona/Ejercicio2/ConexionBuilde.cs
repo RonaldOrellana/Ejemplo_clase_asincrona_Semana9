@@ -20,6 +20,7 @@ namespace Ejemplo_clase_asincrona
             return this;
         }
 
+
         public ConexionBuilder SetUsuario(string usuario)
         {
             _conexion.Usuario = usuario;
